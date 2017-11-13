@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+main()
+{
+   printf("Welcome To Orzun7 Repository");
+  return 0;
+}
