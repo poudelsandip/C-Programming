@@ -4,6 +4,6 @@ int main(){
 double a=3.31*pow(10,-8)*2.01*pow(10,-7);
 double b=7.16*pow(10,-6)+2.01*pow(10,-8);
 double ans=a/b;
-printf("Output =%d",ans);
+printf("Output =%e",ans);
 return 0;
 }
