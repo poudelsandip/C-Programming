@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<math.h>
+
+ main (){
+ double x=2.55;
+ double ans;
+ ans = 3* pow(x,3)-5*pow(x,2)+6;
+ printf("The value of 3xcube -5xsqaure +6 is %f",ans);
+
+ }
