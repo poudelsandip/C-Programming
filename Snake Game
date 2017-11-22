@@ -13,7 +13,7 @@
 #define LEFT 75
 #define RIGHT 77
  
-int length;
+int length; 
 int bend_no;
 int len;
 char key;
